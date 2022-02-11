@@ -8,8 +8,7 @@ I also have interest on the blockchain as a system (not so much about investment
 
 ### Find me around the web 🌐
 
-- 💼 [Linkedin](https://www.linkedin.com/in/interna1ta/)
-- 📫 gonzaloarahuetes@gmail.com
+[Linkedin](https://www.linkedin.com/in/interna1ta/)
 
 <h3 align="left">Languages and Technologies:</h3>
 <p align="left">
