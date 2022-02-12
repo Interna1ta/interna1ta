@@ -1,8 +1,8 @@
 ### Hi, I'm Pere
 
-I am a Full Stack Web Developer - MERN.
+I am a Full-Stack Web Developer working in Barcelona, Spain.
 
-I have proven expertise in digital projects building from scratch. I think analytically, work in a structured and problem-solving oriented manner and possess a thorough understanding of complex business processes. I ́m a business driver with entrepreneurial spirit, ambitious to break new ground and identify opportunities for growth.
+With an Architect and Urbanist background, I am interested in how design and new technologies can help society to move forward.
 
 I also have interest on the blockchain as a system (not so much about investments).
 
