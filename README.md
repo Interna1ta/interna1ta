@@ -18,7 +18,6 @@ I also have interest on the blockchain as a system (not so much about investment
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" title="Sass"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" title="React"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" width="40" alt="Node.js" title="NodeJS"/>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="PHP" title="PHP"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" alt="MongoDB" title="MongoDB"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" alt="MySQL"  title="MySQL"/>
    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" alt="VSCode"  title="VSCode"/>
@@ -30,4 +29,4 @@ I also have interest on the blockchain as a system (not so much about investment
 </p>
  
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=interna1ta&show_icons=true&locale=en&layout=compact" alt="interna1ta" /><img align="center" src="https://github-readme-stats.vercel.app/api?username=interna1ta&show_icons=true&locale=en" alt="gonzalogarahuetes" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=interna1ta&show_icons=true&locale=en&layout=compact" alt="interna1ta" /></p>
