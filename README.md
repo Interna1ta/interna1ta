@@ -1,6 +1,6 @@
 ### Hi, I'm Pere
 
-I am a Full-Stack Web Developer working in Barcelona, Spain.
+I am a Technical Product Manager working in Barcelona, Spain.
 
 With an Architect and Urbanist background, I am interested in how design and new technologies can help society to move forward.
 
