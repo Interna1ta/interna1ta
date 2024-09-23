@@ -2,9 +2,7 @@
 
 I am a Technical Product Manager working in Barcelona, Spain.
 
-With an Architect and Urbanist background, I am interested in how design and new technologies can help society to move forward.
-
-I also have interest on the blockchain as a system (not so much about investments).
+With a web developer and blockchain background, I am interested in how design and new technologies can help society to move forward.
 
 ### Find me around the web 🌐
 
