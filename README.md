@@ -1,6 +1,6 @@
 ### Hi, I'm Pere
 
-I am a Technical Product Manager working in Barcelona, Spain.
+I am an AI Product Manager working in Barcelona, Spain.
 
 With a web developer and blockchain background, I am interested in how design and new technologies can help society to move forward.
 
